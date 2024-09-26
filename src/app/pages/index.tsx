@@ -1,0 +1,7 @@
+export { default as CVPage } from './CV'
+export { default as ExamPage } from './Exam'
+export { default as JobPage } from './Job'
+export { default as LandingPage } from './LandingPage'
+export { default as MatchingCV } from './MatchingCV'
+export { default as NotFoundPage } from './NotFoundPage'
+export { default as SettingPage } from './Setting'
