@@ -95,7 +95,7 @@ const IntroComponent: React.FC = () => {
             <Title level={2} className='!text-4xl text-center !font-[700]'>
               <span className='text-[rgb(21,105,178)]'>Ranksume </span>
               <span className='text-[rgb(234,88,12)]'>of </span>
-              <span className='text-[rgb(36,178,75)]'>FSA </span>
+              <span className='text-[rgb(36,178,75)]'>EZ </span>
             </Title>
             <p>
               This is my team's product and we have some features about my project &amp; CVs, Job description and

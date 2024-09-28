@@ -14,7 +14,7 @@ const HeroComponent: React.FC = () => {
           <FadeIn className='space-y-6' delay={100} transitionDuration={500}>
             <Typography.Title level={2} className='!text-[#fff] !text-6xl text-center !font-[700] z-30 text-shadow'>
               <Trans i18nKey='title'>
-                Ranksume - Matching To Your Dream Job <br /> FSA Product
+                Ranksume - Matching To Your Dream Job <br /> EZ's Product
               </Trans>
             </Typography.Title>
             <p className='text-center !text-[20px] font-normal text-[#fff] z-30 text-shadow'>
